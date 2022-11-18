@@ -1,0 +1,12 @@
+.pointer {
+    cursor: pointer;
+}
+
+p {
+    font-size: 12px;
+}
+
+.result-content {
+    max-height: 80vh;
+    overflow-y: auto;
+}
